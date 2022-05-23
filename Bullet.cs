@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+#Class for bullet
 public class Bullet : MonoBehaviour
 {
     private playermovement player;
